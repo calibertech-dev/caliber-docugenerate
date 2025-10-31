@@ -1,12 +1,19 @@
 {
   "packageDirectories": [
     {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "caliber-docugenerate",
+      "versionDescription": "caliber-docugenerate package"
     }
   ],
   "name": "caliber-docugenerate",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "64.0"
+  "sourceApiVersion": "64.0",
+  "packageAliases": {
+    "caliber-docugenerate": "0Hoaj0000000s6rCAA"
+  }
 }
